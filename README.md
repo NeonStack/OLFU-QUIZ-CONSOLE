@@ -11,7 +11,7 @@ OLFU QUIZ CONSOLE is an interactive, console-based quiz application developed in
 - Top 5 players leaderboard for each subject
 - Automatic score saving to a text file
 - Animated transitions and loading screens
-- User registration and login system
+- User registration and login system (up to 30 user accounts)
 - Fully console-based interface
 
 ## Installation
