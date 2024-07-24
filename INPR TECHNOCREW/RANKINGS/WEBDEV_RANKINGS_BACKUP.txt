@@ -1,0 +1,21 @@
+***WEBDEV RANKINGS LIST***
+
+--TOP 1 PLAYER IN WEBDEV--
+Name: Minotaur
+Score: 90
+
+--TOP 2 PLAYER IN WEBDEV--
+Name: Karrie
+Score: 85
+
+--TOP 3 PLAYER IN WEBDEV--
+Name: Jojo
+Score: 65
+
+--TOP 4 PLAYER IN WEBDEV--
+Name: Mimi-911
+Score: 30
+
+--TOP 5 PLAYER IN WEBDEV--
+Name: Emily
+Score: 5

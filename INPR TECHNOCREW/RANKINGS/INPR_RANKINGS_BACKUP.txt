@@ -1,0 +1,21 @@
+***INPR RANKINGS LIST***
+
+--TOP 1 PLAYER IN INPR--
+Name: Pearl
+Score: 50
+
+--TOP 2 PLAYER IN INPR--
+Name: Karl
+Score: 40
+
+--TOP 3 PLAYER IN INPR--
+Name: Lee
+Score: 30
+
+--TOP 4 PLAYER IN INPR--
+Name: Danny75
+Score: 20
+
+--TOP 5 PLAYER IN INPR--
+Name: James
+Score: 10
