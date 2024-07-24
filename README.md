@@ -1,7 +1,7 @@
 # OLFU QUIZ CONSOLE - TECHNOCREW
 
 ## Description
-OLFU QUIZ CONSOLE is an interactive, console-based quiz application developed in C++. It features randomized questions across three subjects: INTERMEDIATE PROGRAMMING, DIGITAL LOGIC AND DESIGN, and WEB DEVELOPMENT. The app includes difficulty modes, score tracking, and a top players leaderboard.
+OLFU QUIZ CONSOLE is an interactive, console-based quiz application developed in C++. It features randomized questions across three subjects: INTERMEDIATE PROGRAMMING, DIGITAL LOGIC AND DESIGN, and WEB DEVELOPMENT. The app includes multiple difficulty levels, score tracking, and a top players leaderboard.
 
 ## Features
 - Multiple subject areas: Intermediate Programming, Digital Logic and Design, Web Development
@@ -13,6 +13,21 @@ OLFU QUIZ CONSOLE is an interactive, console-based quiz application developed in
 - Animated transitions and loading screens
 - User registration and login system (up to 30 user accounts)
 - Fully console-based interface
+
+## Preview
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/40935d84-4a95-422c-83ae-a8681909522d" width="400" alt="Preview 1" style="margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/a5677c4f-4a9e-4dbf-86cc-ef4033735a79" width="400" alt="Preview 2" style="margin: 10px;">
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e82a61ce-33ec-4955-97a9-bd84e04708c9" width="400" alt="Preview 3" style="margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/dad311ef-72f3-41cf-b85c-5cf0a30404fa" width="400" alt="Preview 4" style="margin: 10px;">
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1b039471-5aaf-48bd-ab4e-3903e6b10414" width="400" alt="Preview 5" style="margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/9d17afc2-c36f-49ec-a478-05c52fb74984" width="400" alt="Preview 6" style="margin: 10px;">
+</div>
 
 ## Installation
 1. Clone the repository or download the source code.
