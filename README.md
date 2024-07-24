@@ -1,4 +1,5 @@
 # OLFU QUIZ CONSOLE - TECHNOCREW
+<img src="https://github.com/user-attachments/assets/10161333-ab16-4457-b7f8-89a877a6da32" alt="technocrew logo" width="100" height="100"/>
 
 ## Description
 OLFU QUIZ CONSOLE is an interactive, console-based quiz application developed in C++. It features randomized questions across three subjects: INTERMEDIATE PROGRAMMING, DIGITAL LOGIC AND DESIGN, and WEB DEVELOPMENT. The app includes multiple difficulty levels, score tracking, and a top players leaderboard.
